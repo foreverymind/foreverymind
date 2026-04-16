@@ -18,7 +18,7 @@ Neurodivergent users hit confusion 3× more often than neurotypical ones.
 
 Static UI is a design compromise we've all been trained to accept. We don't think it has to be.
 
-### What we're building
+### What we're building – For Every Mind
 
 A cloud-edge hybrid SDK that:
 
@@ -48,5 +48,6 @@ Built for product teams who want their software to meet every mind where it is.
 <div align="center">
 
 *There's no such thing as a normal user.*
+*Thats why we are build for every mind.*
 
 </div>
